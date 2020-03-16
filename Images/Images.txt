@@ -1,0 +1,1 @@
+This folder has the main source images that are to be processed. Images are used for Train and Validation sets. 
