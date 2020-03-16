@@ -1,0 +1,1 @@
+This is where all the Face images are trimmed from the main Images using caffe model. 
